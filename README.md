@@ -1,8 +1,8 @@
-# H+A Fortgeschrittenenprojekt SoSe 2020
+# Web-based vocoder with Audio Worklets
  Gerard Llorach and Mattes Ohlenbusch
 
 ## Description
-This repository contains the project for the subject "Fortgeschrittenen-Projektpraktikum Hörtechnik und Audiologie". The project consists on using LPC coefficients to do voice transformations and/or visualization of the vocal tract in real-time. The description of the project is organized in chapters.
+The project consists on using LPC coefficients to do voice transformations and/or visualization of the vocal tract in real-time. The description of the project is organized in chapters.
 
 ## Live demo
 https://gerardllorach.github.io/Fortgeschritenne/
