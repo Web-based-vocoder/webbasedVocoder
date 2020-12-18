@@ -1,8 +1,11 @@
 # Web-based vocoder with Audio Worklets and live input
  Gerard Llorach and Mattes Ohlenbusch
+December 2020
 
 ## Description
 This repository contains a simple vocoder that works with live input. The vocoder uses LPC coefficients to do voice transformations and/or visualization of the vocal tract in real-time. The output signal is synthesized with an overlap and add routine. The description of the project is organized in chapters.
+
+This demo works only with Chrome (the only browswer that supports Audio Worklets right now?)
 
 ## Live demo
 https://gerardllorach.github.io/Fortgeschritenne/
